@@ -1,0 +1,18 @@
+* {
+    margin:0;
+    padding:0;
+}
+.main-section{
+    display: flex;
+}
+
+.question-section{
+   width: 65%;
+   height: 100vh;
+   background-color: rgba(200, 100,50,0.5);
+}
+.qNumber-section{
+   width: 35%;
+   height: 100vh;
+    background-color: blue;
+}
